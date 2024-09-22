@@ -1,0 +1,29 @@
+Tokens de Entrada
+[1] IDENTIFICADOR 1
+[2] IDENTIFICADOR 1
+[3] INT
+[4] IDENTIFICADOR 2
+[5] IDENTIFICADOR 3
+[6] NÚMERO INTEIRO 1
+[8] NÚMERO REAL 1
+[9] FLOAT
+[11] REAL
+[13] DOUBLE
+[15] IDENTIFICADOR 2
+[17] COMENTARIO
+[19] CHAR
+
+Tabela de Símbolos
+1 - a
+2 - asd
+3 - as123
+4 - 99
+5 - 99.99
+
+Erros nas linhas:
+[7] (99.)
+[10] (real a)
+[12] (double _c)
+[14] (as_asd)
+[16] (// Joao da Silva)
+[18] (Joao da Silva --)
